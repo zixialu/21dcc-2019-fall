@@ -6,4 +6,4 @@
 >
 >Are you ready? Let’s go!
 
-This repository is contains the Fall 2019 21DCC's challenges and their solutions.
+This repository contains the Fall 2019 21DCC's challenges and their solutions.
